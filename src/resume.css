@@ -1,7 +1,37 @@
+.full {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+}
+
 h2 {
-    color: red;
+    color: black;
 }
 
 .test {
-    color: green;
+    color: black;
+}
+
+.left {
+    position: initial;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.right {
+    position: initial;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
+
+.test2 {
+    color: grey;
+}
+
+.test3 {
+    column-count: 2;
+}
+
+.test4 {
+    color: white;
 }
