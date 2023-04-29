@@ -8,30 +8,24 @@ h2 {
     color: black;
 }
 
-.test {
-    color: black;
-}
 
 .left {
     position: initial;
-    background-color: lightblue;
+    background-color: sandybrown;
     padding: 20px;
 }
 
 .right {
     position: initial;
-    background-color: lightgoldenrodyellow;
+    background-color: blanchedalmond;
     padding: 20px;
 }
 
-.test2 {
+.contact {
     color: grey;
 }
 
-.test3 {
+.skills {
     column-count: 2;
 }
 
-.test4 {
-    color: white;
-}
